@@ -1,0 +1,9 @@
+!!lab3.UserProfile4
+email: sofi@gmail.com
+firstName: Sofia
+id: 1
+lastName: Romaniv
+messages:
+- {date: !!timestamp '2024-11-03T16:19:28.590Z', subject: Hello, text: I`m Sofia Romaniv}
+- {date: !!timestamp '2024-11-03T16:19:28.590Z', subject: Question, text: 'How are
+    you?'}
